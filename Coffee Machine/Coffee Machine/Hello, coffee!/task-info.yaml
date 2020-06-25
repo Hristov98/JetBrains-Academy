@@ -1,0 +1,17 @@
+type: edu
+custom_name: stage1
+files:
+- name: src/machine/CoffeeMachine.java
+  visible: true
+  text: |
+    package machine;
+
+    public class CoffeeMachine {
+        public static void main(String[] args) {
+            System.out.println("Hello World!");
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/projects/33/stages/175/implement
+status: Solved
+record: 3
