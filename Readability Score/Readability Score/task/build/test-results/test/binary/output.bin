@@ -1,0 +1,42 @@
+[1;31m
+Start test 1[0m
+Words: 108
+Sentences: 6
+Characters: 580
+Syllables: 189
+Polysyllables: 21
+@Enter the score you want to calculate (ARI, FK, SMOG, CL, all): 
+> all
+Automated Readability Index: 	12.864444 (about 24 year olds).
+"Flesch–Kincaid readability tests: 	12.080000 (about 24 year olds).
+Simple Measure of Gobbledygook: 	13.816670 (about 24+ year olds).
+Coleman–Liau index: 
+-15.500667 (about  year olds).
+[1;31m
+Start test 2[0m
+Words: 137
+Sentences: 14
+Characters: 687
+Syllables: 208
+Polysyllables: 17
+@Enter the score you want to calculate (ARI, FK, SMOG, CL, all): 
+> all
+Automated Readability Index: 7.081616 (about 14 year olds).
+"Flesch–Kincaid readability tests: 6.141757 (about 13 year olds).
+Simple Measure of Gobbledygook: 9.424240 (about 16 year olds).
+Coleman–Liau index: 
+-15.535390 (about  year olds).
+[1;31m
+Start test 3[0m
+Words: 180
+Sentences: 13
+Characters: 982
+Syllables: 306
+Polysyllables: 33
+@Enter the score you want to calculate (ARI, FK, SMOG, CL, all): 
+> all
+Automated Readability Index: 	11.188744 (about 18 year olds).
+"Flesch–Kincaid readability tests: 9.870000 (about 16 year olds).
+Simple Measure of Gobbledygook: 	12.230962 (about 24 year olds).
+Coleman–Liau index: 
+-15.500591 (about  year olds).
